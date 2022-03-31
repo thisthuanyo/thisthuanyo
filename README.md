@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thuận Phạm</h1>
 <h3 align="center">A passionate full-stack web developer from Vietnam</h3>
 
-<a href="https://app.daily.dev/PhongVuong"><img src="https://api.daily.dev/devcards/c44fe896ceeb4fa08e21460c5d713123.png?r=4fe" width="400" alt="Phong Vương's Dev Card"/></a>
+<a href="https://app.daily.dev/thuanptt2"><img src="https://api.daily.dev/devcards/08be954356f6419c93bd43c67b5e25b0.png?r=qrr" width="400" alt="Thanh Thuận's Dev Card"/></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phong190897" alt="phong190897" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about *C#, .NET*
 
-- 📫 How to reach me *phong190897@gmail.com*
+- 📫 How to reach me *thuanptt2@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
